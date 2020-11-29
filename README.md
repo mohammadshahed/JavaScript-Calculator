@@ -8,6 +8,3 @@ This is a simple JavaScript arithmetic calculator.
 * Layout is responsive
 
 Technologies : HTML, CSS and Bootstrap, JavaScript
-
-* [Live Site](https://masfikalam.github.io/JS-Calculator)
-* [Github](https://github.com/masfikalam/JS-Calculator)
